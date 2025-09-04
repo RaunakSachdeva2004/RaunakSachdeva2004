@@ -1,5 +1,6 @@
 Hi, I'm Raunak Sachdeva 👋
-<div align="center"> <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDB6emZpN2ZpZ3F2bWJ6d2E3eHJpZTRkdGZrcnZvd3JwdWY1bTJmbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJ98/giphy.gif" width="600" height="300"/> </div><h3 align="center">A CSE undergraduate passionate about AI, Machine Learning, and Cybersecurity</h3>
+![flyd-mT7lXZPjk7U-unsplash](https://github.com/user-attachments/assets/166d2476-3805-4385-9ad9-4e0ba826c735)
+>A CSE undergraduate passionate about AI, Machine Learning, and Cybersecurity</h3>
 📄 My Resume
 You can view my resume here: My Resume (PDF)
 
@@ -14,14 +15,14 @@ You can view my resume here: My Resume (PDF)
 
 📊 My GitHub Stats
 <div align="center">
-https://github-readme-stats.vercel.app/api?username=RaunakSachdeva2004&show_icons=true&theme=radical
-https://github-readme-streak-stats.herokuapp.com/?user=RaunakSachdeva2004&theme=radical
+https://github-readme-stats.vercel.app/api?username=RaunakSachdeva2004&show_icons=true&theme=radical&hide_border=true
+https://streak-stats.demolab.com/?user=RaunakSachdeva2004&theme=radical&hide_border=true
 
 </div>
 🏆 My Popular Repositories
 <div align="center">
-https://github-readme-stats.vercel.app/api/pin/?username=RaunakSachdeva2004&repo=DSA-in-JAVA&theme=radical
-https://github-readme-stats.vercel.app/api/pin/?username=RaunakSachdeva2004&repo=JAVA-PROBLEMS&theme=radical
+https://github-readme-stats.vercel.app/api/pin/?username=RaunakSachdeva2004&repo=DSA-in-JAVA&theme=radical&hide_border=true
+https://github-readme-stats.vercel.app/api/pin/?username=RaunakSachdeva2004&repo=JAVA-PROBLEMS&theme=radical&hide_border=true
 
 </div>
 🛠️ Technologies & Tools
