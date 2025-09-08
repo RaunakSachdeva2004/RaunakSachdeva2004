@@ -1,6 +1,11 @@
 ### Hi, I'm Raunak Sachdeva 👋
 > A CSE undergraduate passionate about AI, Machine Learning, and Cybersecurity
 
+<div align="center">
+  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/3b4607a1-1cc6-41f1-926f-892ae880e7a5" width="500">
+</div>
+<br><br>
+
 📄 **My Resume**
 You can view my resume here: [My Resume (PDF)](https://drive.google.com/file/d/1eYmXKgU-PkieH4J4bAxcCu7oy6IDUiIh/view?usp=sharing)
 
@@ -18,7 +23,7 @@ You can view my resume here: [My Resume (PDF)](https://drive.google.com/file/d/1
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="100">
   <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="100">
-  <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="100">  
+  <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="100">
   <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/e0d299f2-767c-4c21-bd49-90f2a19f1a78" width="100">
   <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/29fd6286-4e7b-4d6c-818f-c4765d5e39a9" width="100">
   <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/de038172-e903-4951-926c-755878deb0b4" width="100">
@@ -45,7 +50,7 @@ You can view my resume here: [My Resume (PDF)](https://drive.google.com/file/d/1
 
 ### 🔗 Let's Connect!
 <p align="center">
-  <a href="www.linkedin.com/in/raunak-sachdev" target="_blank">
+  <a href="https://www.linkedin.com/in/raunak-sachdev" target="_blank">
     <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="100">
   </a>
   <a href="https://www.instagram.com/raunak__sachdeva__/" target="_blank">
@@ -53,7 +58,6 @@ You can view my resume here: [My Resume (PDF)](https://drive.google.com/file/d/1
   </a>
   <a href="https://x.com/RaunakSachdeva_" target="_blank">
     <img src="https://user-images.githubusercontent.com/74038190/235294011-b8074c31-9097-4a65-a594-4151b58743a8.gif" width="100">
-    
   </a>
 </p>
 
