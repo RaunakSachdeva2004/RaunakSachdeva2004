@@ -1,5 +1,7 @@
 ### Hi, I'm Raunak Sachdeva 👋
-> A CSE undergraduate passionate about AI, Machine Learning, and Cybersecurity
+> A CSE student focused on the intersection of Artificial Intelligence and Cybersecurity.
+I enjoy building smart solutions and then ethically breaking them to improve their security.
+Always open to collaborating on innovative AI or open-source security projects.
 
 <div align="center">
   <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/3b4607a1-1cc6-41f1-926f-892ae880e7a5" width="500">
@@ -73,6 +75,6 @@ You can view my resume here: [My Resume (PDF)](https://drive.google.com/file/d/1
 ---
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/RaunakSachdeva2004/count.svg" />
+  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" />
 </div>
 <p align="center">Feel free to connect with me. Happy coding! 🚀</p>
