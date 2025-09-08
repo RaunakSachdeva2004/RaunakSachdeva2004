@@ -2,7 +2,7 @@
 > A CSE undergraduate passionate about AI, Machine Learning, and Cybersecurity
 
 📄 **My Resume**
-You can view my resume here: [My Resume (PDF)](https://github.com/RaunakSachdeva2004/Resume/blob/main/Raunak_Sachdeva_Resume.pdf)
+You can view my resume here: [My Resume (PDF)](https://drive.google.com/file/d/1eYmXKgU-PkieH4J4bAxcCu7oy6IDUiIh/view?usp=sharing)
 
 ---
 
@@ -53,20 +53,20 @@ You can view my resume here: [My Resume (PDF)](https://github.com/RaunakSachdeva
 
 ### 🔗 Let's Connect!
 <p align="center">
-  <a href="https://www.linkedin.com/in/raunak-sachdev" target="_blank">
-    <img src="https://user-images.githubusercontent.com/74038190/235294010-ec412ef5-e3da-4efa-b1d4-0ab4d4638755.gif" width="100">
+  <a href="www.linkedin.com/in/raunak-sachdev" target="_blank">
+    <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="100">
   </a>
-  <a href="https://instagram.com/YOUR_USERNAME" target="_blank">
-    <img src="https://user-images.githubusercontent.com/74038190/235294009-98ca7572-795f-4056-b2c1-ccbde3f2982e.gif" width="100">
+  <a href="https://www.instagram.com/raunak__sachdeva__/" target="_blank">
+    <img src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif" width="100">
   </a>
-  <a href="https://twitter.com/YOUR_USERNAME" target="_blank">
-    <img src="https://user-images.githubusercontent.com/74038190/235294016-6556559a-ed58-4ca6-a4c9-c307cbe0b6b7.gif" width="100">
+  <a href="https://x.com/RaunakSachdeva_" target="_blank">
+    <img src="https://private-user-images.githubusercontent.com/74038190/241765460-cc4fe88c-7f7a-41d8-b449-34b7a178c1c6.gif?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTczMjU2NDUsIm5iZiI6MTc1NzMyNTM0NSwicGF0aCI6Ii83NDAzODE5MC8yNDE3NjU0NjAtY2M0ZmU4OGMtN2Y3YS00MWQ4LWI0NDktMzRiN2ExNzhjMWM2LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA5MDglMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwOTA4VDA5NTU0NVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWYyOTQzODlmOTZhNDcyNGJhZWE3MWFiMjlmZjUzOTRjNTA3YjEyODhkZDM2ODk4NGQxYWI0NzFhNTU5YzdkNWYmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.1l0ok13XqPZN5O-_XVnozwvxv-F6pIuWwEY7BtIOowQ" width="100">
   </a>
   <a href="mailto:raunakdachdeva2004@gmail.com">
     <img src="https://user-images.githubusercontent.com/74038190/235294008-ed8de58b-d4d0-4790-aa81-a39fdc8a1e50.gif" width="100">
   </a>
-   <a href="https://github.com/RaunakSachdeva2004">
-    <img src="https://user-images.githubusercontent.com/74038190/235294007-de441046-823e-4eff-89bf-d4df52858b65.gif" width="100">
+   <a href="[https://github.com/RaunakSachdeva2004](https://discordapp.com/users/879700254277124147)">
+    <img src="https://user-images.githubusercontent.com/74038190/235294015-47144047-25ab-417c-af1b-6746820a20ff.gif" width="100">
   </a>
 </p>
 
