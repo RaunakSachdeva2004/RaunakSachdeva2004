@@ -52,7 +52,8 @@ You can view my resume here: [My Resume (PDF)](https://drive.google.com/file/d/1
     <img src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif" width="100">
   </a>
   <a href="https://x.com/RaunakSachdeva_" target="_blank">
-    <img src="https://private-user-images.githubusercontent.com/74038190/241765460-cc4fe88c-7f7a-41d8-b449-34b7a178c1c6.gif?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTczMjU2NDUsIm5iZiI6MTc1NzMyNTM0NSwicGF0aCI6Ii83NDAzODE5MC8yNDE3NjU0NjAtY2M0ZmU4OGMtN2Y3YS00MWQ4LWI0NDktMzRiN2ExNzhjMWM2LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA5MDglMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwOTA4VDA5NTU0NVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWYyOTQzODlmOTZhNDcyNGJhZWE3MWFiMjlmZjUzOTRjNTA3YjEyODhkZDM2ODk4NGQxYWI0NzFhNTU5YzdkNWYmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.1l0ok13XqPZN5O-_XVnozwvxv-F6pIuWwEY7BtIOowQ" width="100">
+    <img src="https://user-images.githubusercontent.com/74038190/235294011-b8074c31-9097-4a65-a594-4151b58743a8.gif" width="100">
+    
   </a>
 </p>
 
