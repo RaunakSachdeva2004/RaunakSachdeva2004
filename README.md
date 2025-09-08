@@ -37,7 +37,7 @@ You can view my resume here: [My Resume (PDF)](https://drive.google.com/file/d/1
 
 ### 🏆 My Popular Repositories
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=RaunakSachdeva2004&repo=DSA-in-JAVA&theme=radical&hide_border=true" />
+  <img src="https://github.com/RaunakSachdeva2004/Leetcode-problems" />
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=RaunakSachdeva2004&repo=JAVA-PROBLEMS&theme=radical&hide_border=true" />
 </div>
 
