@@ -57,9 +57,6 @@ You can view my resume here: [My Resume (PDF)](https://drive.google.com/file/d/1
   <a href="mailto:raunakdachdeva2004@gmail.com">
     <img src="https://user-images.githubusercontent.com/74038190/235294008-ed8de58b-d4d0-4790-aa81-a39fdc8a1e50.gif" width="100">
   </a>
-   <a href="[https://github.com/RaunakSachdeva2004](https://discordapp.com/users/879700254277124147)">
-    <img src="https://user-images.githubusercontent.com/74038190/235294015-47144047-25ab-417c-af1b-6746820a20ff.gif" width="100">
-  </a>
 </p>
 
 ---
