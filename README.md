@@ -45,13 +45,7 @@ You can view my resume here: [My Resume (PDF)](https://drive.google.com/file/d/1
 
 ### 📊 My GitHub Stats
 <div align="center">
-  <!-- Primary stats with fallback parameters -->
-  <img src="https://github-readme-stats.vercel.app/api?username=RaunakSachdeva2004&show_icons=true&theme=radical&hide_border=true&count_private=true" 
-       onerror="this.style.display='none'" />
   
-  <!-- Streak stats -->
-  <img src="https://streak-stats.demolab.com/?user=RaunakSachdeva2004&theme=radical&hide_border=true" 
-       onerror="this.style.display='none'" />
   
   <!-- Optional: Top languages as backup -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaunakSachdeva2004&theme=radical&hide_border=true&layout=compact" 
