@@ -1,5 +1,10 @@
 # 💫 About Me:
-🔭 I’m currently working on improving my Computer Vision models and experimenting with NLP.<br><br>👯 I’m looking to collaborate on open-source AI projects or innovative Machine Learning research.<br><br>🤝 I’m looking for help with optimizing neural networks for edge devices.<br><br>🌱 I’m currently learning Generative AI, MLOps, and cloud deployment for models.<br><br>💬 Ask me about Python, Data Visualization, and Neural Networks.<br><br>⚡ Fun fact I treat model training time as my dedicated coffee break time. ☕
+- 🔭 I’m currently working on improving my **Computer Vision models** and experimenting with **NLP**.
+- 👯 I’m looking to collaborate on **open-source AI projects** or innovative **Machine Learning research**.
+- 🤝 I’m looking for help with **optimizing neural networks** for **edge devices**.
+- 🌱 I’m currently learning **Generative AI**, **MLOps**, and **cloud deployment** for models.
+- 💬 Ask me about **Python**, **Data Visualization**, and **Neural Networks**.
+- ⚡ Fun fact I treat **model training time** as my dedicated **coffee break time**. ☕
 
 
 ## 🌐 Socials:
