@@ -1,11 +1,10 @@
 # 💫 About Me:
-- 🔭 I’m currently working on improving my **Computer Vision models** and experimenting with **NLP**.
-- 👯 I’m looking to collaborate on **open-source AI projects** or innovative **Machine Learning research**.
-- 🤝 I’m looking for help with **optimizing neural networks** for **edge devices**.
-- 🌱 I’m currently learning **Generative AI**, **MLOps**, and **cloud deployment** for models.
-- 💬 Ask me about **Python**, **Data Visualization**, and **Neural Networks**.
-- ⚡ Fun fact I treat **model training time** as my dedicated **coffee break time**. ☕
-
+- 🔭 I’m a **CSE (AI & ML)** undergrad at **VIT Bhopal** building predictive models.
+- 👯 I’m looking to collaborate on **Python** projects and **Machine Learning** competitions.
+- 🤝 I’m exploring the capabilities of **Generative AI** using **LangChain** and **Hugging Face**.
+- 🌱 I’m currently deep-diving into **LangChain** and **Neural Networks** (CNNs/RNNs).
+- 💬 Ask me about **F1**, **Fitness**, and **AI Tech**.
+- ⚡ Fun fact: I run on caffeine and **late-night coding sessions** (11 PM - 1 AM). ☕
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/raunak-sachdev/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/RaunakSachdeva_) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:raunakdachdeva2004@gmail.com) 
