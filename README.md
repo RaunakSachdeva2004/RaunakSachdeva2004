@@ -1,7 +1,7 @@
 # 💫 About Me:
 - 🔭 I’m a **CSE (AI & ML)** undergrad at **VIT Bhopal** building predictive models.
 - 👯 I’m looking to collaborate on **Python** projects and **Machine Learning** competitions.
-- 🤝 I’m exploring the capabilities of **Generative AI** using **LangChain** and **Hugging Face**.
+- 🤝 I’m exploring the capabilities of **Generative AI** using **LangChain** and **LangGraph**.
 - 🌱 I’m currently deep-diving into **LangChain** and **Neural Networks** (CNNs/RNNs).
 - 💬 Ask me about **F1**, **Fitness**, and **AI Tech**.
 - ⚡ Fun fact: I run on caffeine and **late-night coding sessions** (11 PM - 1 AM). ☕
